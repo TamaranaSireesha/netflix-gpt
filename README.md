@@ -7,7 +7,9 @@
 -Configure the TailwindCSS
 -header
 -login form
--signup form
+-signup form (using same template but changing the state variables)
+- Form validation
+- useRef
 
 # Features
 -Login/SignUP
